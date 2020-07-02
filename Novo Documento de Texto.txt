@@ -1,4 +1,0 @@
-https://aboutreact.com/react-native-timer-stopwatch/
-https://github.com/michaeljstevens/react-native-stopwatch-timer
-
-https://cristianoash.wordpress.com/2017/06/04/calculadora-de-consumo-de-gas/#:~:text=A%20F%C3%B3rmula%20utilizada%20%C3%A9%20simples,)%3B%20PB%20%3D%20Pre%C3%A7o%20do%20Botij%C3%A3o.
